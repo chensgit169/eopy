@@ -1,2 +1,2 @@
-# eopy
-Python SDK for Electron Optics
+# eopy: Python SDK for Electron Optics
+This work was initialized by the SEM group of the University of Chinese Academy of Sciences (Beijing, China), started from 2021. The goal of this project is to provide a Python SDK for electron optics, which can be used to simulate the electron beam propagation in the electron microscope. The project is still under development, and we welcome any contributions from the community.
